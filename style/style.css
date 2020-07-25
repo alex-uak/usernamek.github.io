@@ -1,0 +1,88 @@
+
+		.content {
+			margin: 10px auto 0;
+			background-color: #ADFF2F;
+			text-align: justify;
+			border: inset;
+			
+			padding-top: 10px;
+			padding-left: 15px; 
+			padding-right:15px;
+			padding-bottom: 20px;
+
+			font-size: 20px;
+			font-weight: 500;
+
+			width: 1220px;
+		}
+
+		.hat {
+			border: solid;
+			border-color: #FFD700;
+			background-color: #000;
+			color: white;
+			text-align: center; 
+		}
+
+		.contentList {
+			border: groove;
+			width: 320px;
+			height: 250px;
+			padding: 15px;
+		}
+		
+		.table1 {
+			border: solid;
+			width: 600px;
+			height: 500px;
+			overflow: auto;
+			
+		}
+
+		.table2 {
+			border: solid;
+			width: 600px;
+			height: 500px;
+			overflow: auto;
+		}
+
+		.table3 {
+			border: solid;
+			width: 600px;
+			height: 500px;
+			overflow: auto;
+		}
+
+		.table4 {
+			border: solid;
+			width: 600px;
+			height: 500px;
+			overflow: auto;
+		}
+
+		.rightpic {
+			float: right;
+			margin: 0 0 5px 5px;
+		}
+
+		.contentt {
+			margin: 10px auto 0;
+			background-color: #ADFF2F;
+			
+			border: inset;
+			
+			padding-top: 10px;
+			padding-left: 15px; 
+			padding-right:15px;
+			padding-bottom: 20px;
+
+			font-size: 20px;
+			font-weight: 500;
+
+			width: 1220px;
+			height: 1200px;
+		}
+
+		.conten2 {
+			text-align: center;
+		}
